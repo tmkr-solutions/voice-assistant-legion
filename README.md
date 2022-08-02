@@ -36,7 +36,7 @@ Abschnitt zu diesem Thema.
 * OpenJDK 17
 * Spring Boot 2.7.0
 
-### Grundlendes
+### Grundlagen
 
 Das Framework beinhaltet zwei zentrale abstrakte Klassen: _**VoiceAssistant**_ und _**Infrastructure**_. Kommuniziert
 wird über die Klasse **_Event_**. Erben der Klasse _**Event**_ bildet die Befehle ab die von Sprachassistenten geschickt
